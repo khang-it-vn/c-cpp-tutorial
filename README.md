@@ -1,5 +1,14 @@
 # c-cpp-tutorial
+**What is programming fundamentals ?**
 
+Programming fundamentals refer to the basic knowledge and skills of programming, serving as the foundation for understanding and developing software applications. The basic knowledge 
+includes syntax and programming theory, knowledge of algorithms, data structures, exception handling, debugging, and version control. The basic skills include problem analysis, algorithm 
+design, coding, testing, and debugging. Understanding the basic programming concepts will enable learners to easily and flexibly approach different programming languages.
+
+Programming fundamentals (cơ bản lập trình) là các kiến thức và kỹ năng cơ bản của lập trình, là nền tảng để hiểu và phát triển các ứng dụng phần mềm. Các kiến thức cơ bản bao gồm cú pháp
+và lý thuyết lập trình, kiến thức về thuật toán, cấu trúc dữ liệu, xử lý ngoại lệ, debug, và quản lý phiên bản. Các kỹ năng cơ bản bao gồm kỹ năng phân tích vấn đề, thiết kế thuật toán, 
+viết mã, testing và debugging. Hiểu về các khái niệm cơ bản lập trình sẽ giúp cho người học có thể tiếp cận với các ngôn ngữ lập trình khác nhau một cách dễ dàng và linh hoạt hơn.
+Tôi có xây dựng một khóa học fundamental với java, bạn hãy cho tôi các chủ đề trong khóa học này
 ## 1. C Basic
 
 ##### 1.1 Syntax and data types in C - Cú pháp cơ bản và kiểu dữ liệu trong C
